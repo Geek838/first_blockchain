@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a8bc5f6-8072-430d-9596-2a2ec84f4880" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XfkGqUUSNUZA07T74mlOhgxMtT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blockchain.js" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="blockchain.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser start="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="blockchain.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="blockchain.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser start="true" with-js-debugger="true" url="http://localhost" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8bc5f6-8072-430d-9596-2a2ec84f4880" name="Default Changelist" comment="" />
+      <created>1581444443335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581444443335</updated>
+      <workItem from="1581444445603" duration="2474000" />
+    </task>
+    <task id="LOCAL-00001" summary="add chain validation">
+      <created>1581446904873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581446904873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add chain validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chain validation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="190" key="#blockchain.js" timestamp="1581444891083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="190" key="#blockchain.js/0.0.1920.1040@0.0.1920.1040" timestamp="1581444891083" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581444624436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581444624436" />
+    <state x="583" y="30" width="847" height="983" key="CommitChangelistDialog2" timestamp="1581446870341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="30" width="847" height="983" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581446870341" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581444590371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581444590371" />
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom" timestamp="1581446678248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581446678248" />
+    <state width="1899" height="261" key="GridCell.Tab.0.center" timestamp="1581446678248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581446678248" />
+    <state width="1899" height="261" key="GridCell.Tab.0.left" timestamp="1581446678248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581446678248" />
+    <state width="1899" height="261" key="GridCell.Tab.0.right" timestamp="1581446678248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581446678248" />
+  </component>
+</project>
